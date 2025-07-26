@@ -1,7 +1,7 @@
-# Ejercicios de Lógica de Programación
+# Programming Logic Exercises
 
-Este repositorio contiene ejercicios que practiqué mientras aprendía Python. Cada uno utiliza condicionales, funciones, operadores aritméticos y estructuras básicas para resolver problemas reales.
+This repository contains exercises I practiced while learning Python. Each one uses conditionals, functions, arithmetic operators, and basic structures to solve real-world problems.
 
-- ✅ Ejercicio 1: Control de acceso a discoteca
-- ✅ Ejercicio 2: Compra de boletos con descuento
-- ✅ Ejercicio 3: Calculadora de impuestos
+- ✅ Exercise 1: Nightclub access control
+- ✅ Exercise 2: Ticket purchase with discounts
+- ✅ Exercise 3: Tax calculator
